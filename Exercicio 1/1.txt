@@ -1,0 +1,1 @@
+Foi realizada a atualização dos pacotes do sistema e a instalação do OpenSSL. Em seguida, foi verificada a versão instalada para confirmar que a ferramenta está funcionando corretamente. Esse processo prepara o ambiente para trabalhar com criptografia e certificados digitais. 
