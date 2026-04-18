@@ -1,0 +1,1 @@
+Foi gerado um certificado digital autoassinado com validade de 365 dias, utilizando o CSR e a chave privada. Esse certificado permite estabelecer conexões seguras, embora não seja reconhecido como confiável por navegadores. 
