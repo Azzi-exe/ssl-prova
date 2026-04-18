@@ -1,0 +1,1 @@
+Foi utilizado o comando SCP para transferir o certificado gerado para outro sistema através da rede. Esse método utiliza SSH, garantindo que a transferência seja feita de forma segura e criptografada. 
