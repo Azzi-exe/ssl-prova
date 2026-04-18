@@ -1,0 +1,1 @@
+Foi criado o diretório /etc/ssl/certificates e acessado via terminal. Esse passo organiza o ambiente, definindo um local específico para armazenar certificados digitais, seguindo um padrão comum em sistemas Linux. 
