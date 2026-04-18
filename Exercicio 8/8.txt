@@ -1,0 +1,1 @@
+Foi acessado o servidor pelo navegador para visualizar o certificado digital. Foi possível observar suas informações e entender o motivo do alerta de segurança, relacionado à falta de confiança no certificado. 
