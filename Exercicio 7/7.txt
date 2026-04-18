@@ -1,0 +1,1 @@
+Foi iniciado um servidor web local usando Python na porta 8443. Ao tentar acessar via HTTPS, o navegador apresentou um aviso de segurança, pois o certificado utilizado é autoassinado e não validado por uma autoridade certificadora. 
