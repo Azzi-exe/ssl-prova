@@ -1,0 +1,1 @@
+Foi gerada uma chave privada utilizando o OpenSSL, com tamanho de 2048 bits. Essa chave será usada posteriormente para criar o certificado e garantir a segurança das comunicações. Ela deve ser mantida em sigilo. 
