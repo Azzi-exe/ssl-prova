@@ -1,0 +1,1 @@
+Foi criado um CSR (pedido de assinatura de certificado) com base na chave privada. Durante esse processo, foram preenchidas informações como país, organização e nome do domínio. Esse arquivo é usado para solicitar um certificado digital. 
